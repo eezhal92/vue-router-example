@@ -1,0 +1,2 @@
+export const RECEIVE_PEOPLE = 'RECEIVE_PEOPLE'
+export const RECEIVE_PERSON = 'RECEIVE_PERSON'
